@@ -1,2 +1,3 @@
-##Feynn Labs internship task
-##McDonald Market Segmentation
+# Feynn Labs internship task
+
+## McDonald Market Segmentation
